@@ -31,7 +31,7 @@
         "@actions/github": "^3.0.0",
         "@actions/tool-cache": "^1.7.2",
         "@types/node-fetch": "^2.6.6",
-        "@types/tmp": "^0.1.0",
+        "@types/tmp": "^0.2.6",
         "execa": "^3.2.0",
         "node-fetch": "^2.6.1",
         "tmp": "^0.1.0"
